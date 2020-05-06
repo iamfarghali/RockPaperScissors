@@ -1,6 +1,6 @@
 import random
 
-options = ['rock', 'paper', 'scissors']
+options = ('rock', 'paper', 'scissors')
 
 
 def winner(u_choice, c_choice):
